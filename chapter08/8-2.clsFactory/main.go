@@ -1,9 +1,9 @@
 package main
 
 import (
-	"xubo/chapter08/clsFactory/base"
-	_ "xubo/chapter08/clsFactory/cls1"
-	_ "xubo/chapter08/clsFactory/cls2"
+	"xubo/chapter08/8-2.clsFactory/base"
+	_ "xubo/chapter08/8-2.clsFactory/cls1"
+	_ "xubo/chapter08/8-2.clsFactory/cls2"
 )
 
 func main() {
