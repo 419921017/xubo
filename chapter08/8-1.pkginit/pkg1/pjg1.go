@@ -2,7 +2,7 @@ package pkg1
 
 import (
 	"fmt"
-	"xubo/chapter08/pkginit/pkg2"
+	"xubo/chapter08/8-1.pkginit/pkg2"
 )
 
 func ExecPkg1() {

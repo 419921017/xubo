@@ -2,7 +2,7 @@ package cls2
 
 import (
 	"fmt"
-	"xubo/chapter08/clsFactory/base"
+	"xubo/chapter08/8-2.clsFactory/base"
 )
 
 type Class2 struct{}

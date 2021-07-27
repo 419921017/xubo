@@ -9,8 +9,8 @@ import (
 var seq int64
 
 func GenID() int64 {
-
 	return atomic.AddInt64(&seq, 1)
+
 }
 
 var count int
